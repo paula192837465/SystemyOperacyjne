@@ -1,0 +1,18 @@
+zadanie 1:
+
+W przypadku uzycia funkcji fork, proces potomny dziedziczy ustalenia dotyczace obslugi sygnalow oraz nalozona maske. Nie dziedziczy natomiast sygnalow, ktore oczekuja na odblokowanie.
+
+Kiedy uzyjemy funkcji exec, dziedziczymy zarowno usatalenia dotyczace obslugi syganalow, maske oraz sygnaly ktore zostaly zablokowane przez maske i czekaja na odblokowanie.
+
+zadanie 2:
+
+Przetestowalam trzy flagi tj:
+a) SA_SIGINFO (przekazuje dane informacje o procesie i sygnale)
+b) SA_ONESHOT (obsluguje tylko pierwszy wyslany sygnal)
+c) SA_NOCLDSTOP (nie informuje o zatrzymaniu procesu dziecka)
+
+zadanie 3:
+
+Dzialaja 2 wersje zadania.
+
+Podsumowujac, udalo sie ukonczyc wszystkie zadania. 

@@ -1,0 +1,98 @@
+
+
+
+	Merged files: fileA.txt fileB.txt
+	REAL_TIME: 0.000000l
+	USER_TIME: 0.000000l
+	SYSTEM_TIME: 0.000000l
+
+
+
+	Merged files: A.txt B.txt
+	REAL_TIME: 0.020000l
+	USER_TIME: 0.000000l
+	SYSTEM_TIME: 0.000000l
+
+
+
+	Merged files: PanTadeusz1.txt PanTadeusz2.txt
+	REAL_TIME: 0.000000l
+	USER_TIME: 0.000000l
+	SYSTEM_TIME: 0.000000l
+
+
+
+	Merged files: praca1Medium.txt PanTadeusz1.txt
+	REAL_TIME: 0.020000l
+	USER_TIME: 0.000000l
+	SYSTEM_TIME: 0.000000l
+
+
+
+	Merged files: praca1Medium.txt praca2Medium.txt
+	REAL_TIME: 0.020000l
+	USER_TIME: 0.000000l
+	SYSTEM_TIME: 0.000000l
+
+
+
+	Merged files: PanTadeusz1.txt zemsta1.txt
+	REAL_TIME: 0.000000l
+	USER_TIME: 0.000000l
+	SYSTEM_TIME: 0.000000l
+
+
+
+	Merged files: PanTadeusz1Long.txt PanTadeusz2Long.txt
+	REAL_TIME: 0.070000l
+	USER_TIME: 0.040000l
+	SYSTEM_TIME: 0.020000l
+
+
+
+	Merged files: PanTadeusz1Long.txt PanTadeusz2Long.txt
+	REAL_TIME: 0.080000l
+	USER_TIME: 0.040000l
+	SYSTEM_TIME: 0.030000l
+
+
+
+	Merged files: longlong.txt longlong2.txt
+	REAL_TIME: 0.420000l
+	USER_TIME: 0.290000l
+	SYSTEM_TIME: 0.110000l
+
+
+
+	Merged files: longlong.txt longlong2.txt
+	REAL_TIME: 0.320000l
+	USER_TIME: 0.250000l
+	SYSTEM_TIME: 0.050000l
+
+
+
+	Merged files: PanTadeusz1Long.txt PanTadeusz2Long.txt
+	REAL_TIME: 0.090000l
+	USER_TIME: 0.030000l
+	SYSTEM_TIME: 0.030000l
+
+
+
+	Merged files: longlong.txt longlong2.txt
+	REAL_TIME: 0.440000l
+	USER_TIME: 0.330000l
+	SYSTEM_TIME: 0.090000l
+
+
+
+	Merged files: longlong.txt longlong2.txt
+	REAL_TIME: 0.460000l
+	USER_TIME: 0.330000l
+	SYSTEM_TIME: 0.110000l
+
+
+
+	Merged files: longlonglong1.txt longlonglong2.txt
+	REAL_TIME: 1.150000l
+	USER_TIME: 0.830000l
+	SYSTEM_TIME: 0.300000l

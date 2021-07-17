@@ -1,0 +1,142 @@
+Number of threads: 4 	 Mode: numbers
+Thread 1 	 872.0510 microseconds
+Thread 2 	 728.6650 microseconds
+Thread 3 	 706.0410 microseconds
+Thread 4 	 512.0530 microseconds
+
+Full time 22937.5200 microseconds
+----------------------------
+
+Number of threads: 10 	 Mode: blocks
+Thread 1 	 2118.7240 microseconds
+Thread 2 	 2350.0290 microseconds
+Thread 3 	 2185.1420 microseconds
+Thread 4 	 3200.4790 microseconds
+Thread 5 	 2406.3280 microseconds
+Thread 6 	 1496.1150 microseconds
+Thread 7 	 1610.3830 microseconds
+Thread 8 	 1525.7340 microseconds
+Thread 9 	 1517.2940 microseconds
+Thread 10 	 1628.1210 microseconds
+
+Full time 52774.5740 microseconds
+----------------------------
+
+Number of threads: 2 	 Mode: numbers
+Thread 1 	 2997.2110 microseconds
+Thread 2 	 2258.4550 microseconds
+
+Full time 57364.3120 microseconds
+----------------------------
+
+Number of threads: 8 	 Mode: numbers
+Thread 1 	 2224.3130 microseconds
+Thread 2 	 2033.3540 microseconds
+Thread 3 	 2860.8120 microseconds
+Thread 4 	 3118.9980 microseconds
+Thread 5 	 5336.6990 microseconds
+Thread 6 	 5947.5570 microseconds
+Thread 7 	 8464.0880 microseconds
+Thread 8 	 2331.0470 microseconds
+
+Full time 60897.4650 microseconds
+----------------------------
+
+Number of threads: 16 	 Mode: blocks
+Thread 1 	 2065.0510 microseconds
+Thread 2 	 2498.6910 microseconds
+Thread 3 	 16598.8380 microseconds
+Thread 4 	 2995.6310 microseconds
+Thread 5 	 2271.7650 microseconds
+Thread 6 	 1950.0740 microseconds
+Thread 7 	 1674.6770 microseconds
+Thread 8 	 1505.3220 microseconds
+Thread 9 	 1898.9890 microseconds
+Thread 10 	 1711.8860 microseconds
+Thread 11 	 1335.1190 microseconds
+Thread 12 	 1258.7770 microseconds
+Thread 13 	 1526.4280 microseconds
+Thread 14 	 1616.8920 microseconds
+Thread 15 	 1462.0990 microseconds
+Thread 16 	 1529.8730 microseconds
+
+Full time 67486.9510 microseconds
+----------------------------
+
+Number of threads: 1 	 Mode: numbers
+Thread 1 	 2937.4180 microseconds
+
+Full time 83542.0570 microseconds
+----------------------------
+
+Number of threads: 4 	 Mode: numbers
+Thread 1 	 849.4170 microseconds
+Thread 2 	 758.1730 microseconds
+Thread 3 	 535.1510 microseconds
+Thread 4 	 553.4460 microseconds
+
+Full time 33377.8960 microseconds
+----------------------------
+
+Number of threads: 10 	 Mode: blocks
+Thread 1 	 1830.2190 microseconds
+Thread 2 	 1365.4820 microseconds
+Thread 3 	 6168.5910 microseconds
+Thread 4 	 4380.0300 microseconds
+Thread 5 	 1621.3680 microseconds
+Thread 6 	 1374.9870 microseconds
+Thread 7 	 1584.7470 microseconds
+Thread 8 	 1733.6120 microseconds
+Thread 9 	 1224.1290 microseconds
+Thread 10 	 1469.8030 microseconds
+
+Full time 80410.2850 microseconds
+----------------------------
+
+Number of threads: 2 	 Mode: numbers
+Thread 1 	 2699.4330 microseconds
+Thread 2 	 1361.9330 microseconds
+
+Full time 57717.2740 microseconds
+----------------------------
+
+Number of threads: 8 	 Mode: numbers
+Thread 1 	 2252.5770 microseconds
+Thread 2 	 2292.0270 microseconds
+Thread 3 	 3019.7750 microseconds
+Thread 4 	 3236.4880 microseconds
+Thread 5 	 2840.3350 microseconds
+Thread 6 	 1916.5200 microseconds
+Thread 7 	 2050.7650 microseconds
+Thread 8 	 4813.5540 microseconds
+
+Full time 92729.3510 microseconds
+----------------------------
+
+Number of threads: 16 	 Mode: blocks
+Thread 1 	 1570.1380 microseconds
+Thread 2 	 2018.7090 microseconds
+Thread 3 	 1839.0220 microseconds
+Thread 4 	 1664.5360 microseconds
+Thread 5 	 1783.0810 microseconds
+Thread 6 	 1724.9640 microseconds
+Thread 7 	 1210.0830 microseconds
+Thread 8 	 1174.1370 microseconds
+Thread 9 	 1450.1200 microseconds
+Thread 10 	 1879.1830 microseconds
+Thread 11 	 1880.7350 microseconds
+Thread 12 	 1786.2700 microseconds
+Thread 13 	 1377.9890 microseconds
+Thread 14 	 1176.9100 microseconds
+Thread 15 	 3513.2060 microseconds
+Thread 16 	 1860.3510 microseconds
+
+Full time 98471.0240 microseconds
+----------------------------
+
+Number of threads: 1 	 Mode: numbers
+Thread 1 	 2558.8100 microseconds
+
+Full time 104975.5850 microseconds
+----------------------------
+

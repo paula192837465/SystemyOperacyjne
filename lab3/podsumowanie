@@ -1,0 +1,16 @@
+UWAGI DO ZADANIA 2:
+
+Po analizie wynikow pmiarow czasowych mergowania poszczegolnych likow z pomiarami z zadania 1 moge stwierdzic, ze:
+
+1. Na najmniejszych plikch nie jestem w stanie zobczyc roznicy w czasie poniewz pliki sa na tyle male.
+
+2. w srednich plikach widac niewielka roznice czasowa. Wersja programu gdzie kazde mergowanie wykonuje inny proces jest nieco wolniejsze od wczesnijeszej wersji z labolatorium 1.
+
+3.W duzych plikach natomiast roznica ta staje sie wieksza. Czas mergowania plikow, w przypadku najwikeszych plikow, zawierajacych ok 3 700 000 linijek czas laczenia plikow jest nawet 3-krotnie dluzszy.
+
+
+UWAGI I PODSUMOWANIE:
+
+Udalo mi sie w calosci napisac zadenie 1 i 2. W przypadku zadania 3, program nie wypisuje sciezki wzglednej do danego katalogu. Potrafi jednak wejsc w glab drzewa katalogow, rozpoczynajac od katalogu podanego w sciezce na wejsciu. Kazdy nowy katalog przegladany jest przez osobny proces potmny procesu glownego. Program wyszukuje pliki rozpoczynajace sie od danego na wejsciu ciag znakow. Bedac w kazdym katalogu wypisuje takze jego proces i proces rodzica jak w poprzednich zadaniach. 
+
+Nie bylam w stanie wyslac wszystkich plikow tekstowych na ktorych robilam testy poniewz maja one za duza pojemnosc i upel ich nie przyjmie, nawet po skompresowaniu. 

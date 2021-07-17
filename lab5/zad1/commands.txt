@@ -1,0 +1,10 @@
+skladnik0 = grep "Ala"
+skladnik1 = s aux 
+skladnik2 = ps aux 
+skladnik3 = ls -l | grep Apr | head -n 1
+skladnik4 = cat sample.txt | grep -v a | sort 
+skladnik5 = wc -l
+skladnik6 = grep rwx
+skladnik7 = ls -l
+
+skladnik7 | skladnik6
